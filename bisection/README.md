@@ -1,10 +1,8 @@
-# Binary search
+# Bisection method
 
-Binary search (aka _bisection_, aka _dichotomy_)
+Algorithm description: https://en.wikipedia.org/wiki/Bisection_method
 
-
-
-
+---
 
 **Problem:** Find the root of the function `f()` on the interval `[a,b]` with precision at least `tol` using the bisection method. You should assume that variables `f,a,b` are already defined. You need to output the root of the function using the standard print statement.
 
@@ -58,7 +56,3 @@ Sample Output 3:
 ```
 0.2555097579956055
 ```
-
-
-
-
